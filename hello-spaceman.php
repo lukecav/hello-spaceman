@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Hello Spaceman
- * Plugin URI: https://github.com/lukecav/hello-space-man/
+ * Plugin URI: https://github.com/lukecav/hello-spaceman/
  * Description: A simple plugin which replaces the Howdy wording in the admin bar to be reflective of everyone's favorite space man.
  * Author: Luke Cavanagh
- * Author URI: https://github.com/lukecav/hello-space-man/
+ * Author URI: https://github.com/lukecav
  * Version: 1.0
  * License: GPL2
  *
